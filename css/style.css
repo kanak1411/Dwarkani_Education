@@ -1242,6 +1242,43 @@ input[type="text"]:focus, input[type="email"]:focus, input[type="password"]:focu
     color: #000;
     line-height: 60px;
 }
+.container-fluid-1 {
+	margin-left: auto;
+	margin-right: auto;
+	padding-right: 15px;
+	padding-left: 15px;
+  }
+  .heading_s1 h2 {
+    font-size: 60px;
+    color: #252323;
+    font-weight: 400;
+    line-height: 55px;
+    display: flex;
+	justify-content: center;
+    position: relative;
+}
+.flex-ds{
+	display: flex;
+	justify-content: center;
+}
+
+.testimonial h3 {
+    font-size: 40px;
+    font-weight: 400;
+    margin-top: 30px;
+}
+
+.testimonial h3 small {
+    font-size: 22px;
+    font-weight: 400;
+    line-height: normal;
+}
+
+.testimonial h4 {
+    font-size: 30px;
+    font-weight: 500;
+    margin-bottom: 20px;
+}
 /*------------------------------------*\
 	Responsive
 \*------------------------------------*/
